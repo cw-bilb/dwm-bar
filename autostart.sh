@@ -19,3 +19,4 @@ nm-applet &
 #fcitx
 sleep  10s
 fcitx & 
+unset LOC DIR

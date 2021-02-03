@@ -7,4 +7,6 @@ function menu_battery(){
 	
 	printf "BAT %s%% %s" $CHARGE $STATUS
 	printf "%s" "$SEP2"
+		
 }
+unset CHARGE STATUS

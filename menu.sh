@@ -24,4 +24,5 @@ dispstr="$dispstr$(menu_vol)"
 #display on menu 
 xsetroot -name "$dispstr"
 
+unset LOC DIR SEP1 SEP2 dispstr
 exit 0

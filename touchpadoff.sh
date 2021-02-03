@@ -8,3 +8,4 @@ if [ $STATE -eq 1 ] ; then
 else
 	xinput enable $ID
 fi
+unset ID STATE

@@ -12,3 +12,4 @@ function menu_vol(){
 
 
 }
+unset STATUS VOL
