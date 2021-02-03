@@ -1,0 +1,1 @@
+sh/bash  execing shell need to the shell`s obslutePath , but i am using relativePath
